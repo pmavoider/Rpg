@@ -1,6 +1,0 @@
-username = "bob"
-charaterClass = "paladin"
-
-
-
-
